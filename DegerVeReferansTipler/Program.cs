@@ -17,6 +17,8 @@
             array2[0] = 5;
             Console.WriteLine(array1[0]);
             //değer tiplerde değer atanır,referans tiplerde adres atanır.
+
+
         }
     }
 }
